@@ -1,7 +1,7 @@
 
 # 🚀 NexusTech  
 
-Bienvenido a **NexusTech**, un proyecto enfocado en innovación, tecnología y desarrollo moderno.  
+Bienvenido a **NexusTech**, mi portafolio personal enfocado en innovación, tecnología y desarrollo moderno.  
 
 ---
 
