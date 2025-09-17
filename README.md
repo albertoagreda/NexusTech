@@ -1,11 +1,53 @@
 
-  # NexusTech
+# 🚀 NexusTech  
 
-  This is a code bundle for NexusTech. The original project is available at https://www.figma.com/design/aJXnjd9ch9NMC1DQCUsEga/NexusTech.
+Bienvenido a **NexusTech**, un proyecto enfocado en innovación, tecnología y desarrollo moderno.  
 
-  ## Running the code
+---
 
-  Run `npm i` to install the dependencies.
+## 🔗 Acceso rápido  
+👉 [Diseño en Figma](https://cobalt-award-23943253.figma.site/)  
 
-  Run `npm run dev` to start the development server.
-  
+---
+
+## 📌 Características principales  
+- ⚡ Código limpio y estructurado  
+- 🛠️ Pensado para escalabilidad  
+- 🎨 Diseño atractivo y moderno  
+- 🌍 Preparado para futuros despliegues  
+
+---
+
+## 📂 Estructura del proyecto  
+
+  NexusTech/
+│── src/ # Código fuente
+│── assets/ # Imágenes, íconos y recursos
+│── docs/ # Documentación
+│── README.md # Este archivo
+
+
+---
+
+## 🖥️ Tecnologías utilizadas  
+- **Visual Studio Code**  
+- **GitHub** (control de versiones)  
+- **Figma** (prototipado y diseño UI/UX)  
+
+---
+
+## 🤝 Contribución  
+Si quieres aportar al proyecto:  
+1. Haz un fork 🍴  
+2. Crea una nueva rama 🌱  
+3. Haz tu commit con cambios 💡  
+4. Abre un Pull Request 🚀  
+
+---
+
+## 📜 Licencia  
+Este proyecto está bajo la licencia **MIT**.  
+
+---
+
+✨ Hecho con pasión por [@albertoagreda](https://github.com/albertoagreda)  
